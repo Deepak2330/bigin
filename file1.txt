@@ -2,4 +2,4 @@
 file:deepu
 
 
-fearture : picture
+feature:pic
